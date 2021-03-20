@@ -1,5 +1,5 @@
 import React, { lazy, Suspense } from "react";
-import importMDX from "mdx.macro";
+import { importMDX } from "mdx.macro";
 
 import PropDrawer from "../../components/PropDrawer";
 
